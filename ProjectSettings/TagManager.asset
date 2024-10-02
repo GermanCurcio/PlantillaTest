@@ -6,17 +6,19 @@ TagManager:
   tags:
   - Proyectil
   - Wall
+  - Enemy
+  - Projectile
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - proyectil
+  - Player
   - Water
   - UI
-  - jugador
-  - 
-  - 
-  - 
+  - Bullet
+  - Enemy
+  - PowerUp
+  - Wall
   - 
   - 
   - 
